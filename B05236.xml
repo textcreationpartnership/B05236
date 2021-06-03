@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edinburgh, October 20. 1649. The Commitee of Estates taking into their consideration ...</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05236</idno><idno type="EEBO-CITATION">53299240</idno>
+  <idno type="VID">179977</idno>
+  <idno type="EEBO-PROQUEST">2248537855</idno>
+  
+            <idno type="STC">Wing S1193A</idno>
+            <idno type="STC">ESTC R183973</idno>
+            <idno type="OCLC">53299240</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179977)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2810:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Edinburgh, October 20. 1649. The Commitee of Estates taking into their consideration ...</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinbvrgh, :</pubPlace>
+                  <date>Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Signed at foot: Tho. Henderson.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179977:1"/>
+            <opener>
+               <dateline>EDINBURGH, <date>October 20. 1648.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Commitee of Estates taking into their consideration, that by the late agreement at <hi>Edinburgh</hi> and <hi>Stirlin,</hi> and by their Acts of the 22. of <hi>September,</hi> and the 4<seg rend="sup">th</seg> of <hi>October</hi> last, and by their engagement to the Kingdome of <hi>England,</hi> that all those who have been accessory to the late engagement, or who have joyned in Arms or Counsell with the Earls of <hi>Crawford, Lanerk, George Monro,</hi> and were Abetters or Assisters to them should forbear all exercise of their pla<g ref="char:EOLhyphen"/>ces, or trust; and that the most part of the Members of the Exchequer, or Officers belonging thereto, are notorly known to have been accessory to the said engagement, or hath joyned in Arms or Counsell as is aforesaid; and considering that the Government of the Affaires of this Kingdome is now lying upon the Committee as it is now constitute, consisting of these who dis<g ref="char:EOLhyphen"/>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sented from the engagement, and how great and many prejudices thereunto will fall out, if in this interim they did not take care to see the Exchequer and the Kings revenues and customes keeped from confusion and dilapidation; And that the King be not defrauded of his Revenues, Casualities, and Customes, nor the same perverted or imployed to wrong uses, but for the good of the King and Kingdome. And withall, considering how necessary it is that the Customes be rightly set, and that what further is necessary to be done upon the triall of the true condition of the Affaires of the Exchequer may be timously gone about, Therefore the Committee appoints the Lord Chancellour, the Lord Marquesse of Argyle, the Earle of Cadils, the Lord Balmirinoth, the Lord Burghly, the Lord Advocate, Lord <hi>Tofts, Scotscraig, Libberton,</hi> the Pro<g ref="char:EOLhyphen"/>vest of Edinburgh, Sir <hi>Iohn Smith, Robert Lochart, George Gairns</hi> or any seven of them; there being one of every estate as a Sub-committee in their name to meet and use all possible means to search and try out the true condition of the Affaires of the Treasury, Comptrolarie, Col<g ref="char:EOLhyphen"/>lectory, and Exchequer, and thereby to learn what hath been gotten in and received, and what hath been disbursed, and how, and to whom, and for what. And likewise to know what was owing to the Exchequer on the first day of <hi>September</hi> last, and by whom, And what is owing by the Exchequer, and to whom, and for what. That they may make and full report of the true conditi<g ref="char:EOLhyphen"/>on thereof, with their opinion anent the abuses, and the best remedies thereof unto the Committee of Estates, that they may take course thereanent as they shall see cause and necessity to require. And to this effect, the Committee grants their full power and Commission to the Sub-Committee aforesaid or any seven of them to call for, and peruse the Records and Books, or Accompts belonging to the Exchequer, or any Officer thereof; as also to call and conveen before them any Member or Officer of the Exchequer, or any of their Clerks, Receivers, Customers, or Collectors, and to call from them ane full Accompt and exact Declaration of their knowledge in any of the particulars aforesaid, or any other thing relating thereunto, and this under their Hand-writ with their offer to verifie the same by their oath if the Sub-Committee shall find it necessary to require the same; With power likewise to them to cite and conveen before them, and to examine any other persons whom they shall find it necessary to be conveened and examined for the triall of the particulars aforesaid; like as the Comittee gives them hereby full power &amp; warrant to advise on the best way of setting the Customes at the best avail, and to re<g ref="char:EOLhyphen"/>port their opinion to the Committee that the same may be timously setled, and to the end there may be no confusion of compts, nor anticipa<g ref="char:EOLhyphen"/>tion of payment from them that are owing to the Exchequer for satisfying of pensions or precepts to evill affected persons, in this interim; therefore the Committee dischargeth the Earl of <hi>Craford-Lindsay,</hi> Sir <hi>James Carmichael,</hi> Sir <hi>William Lochart, Adam Blair,</hi> or any other Officer or Receiver of the Exchequer from all intrometting with any of the Kings Rents or Customes, and from all giving out any war<g ref="char:EOLhyphen"/>rants, precepts or payments thereanent, or holding of Exchequers, passing of Signators, taking up of monies from the Customers, the King, or Prince, there tenants or vassals; or any other way medling in the exercise of their places since the date of the agreement at <hi>Edinburgh</hi> and <hi>Stirlin,</hi> unto the time that the Parliament give warrant thereanent, during which time they are suspended from the exercise of their places; Like as the Committee dischargeth all Sub-Collectors and under-Receivers, or any of the Kings Leiges to pay any of the Dues, or Rents, or Customes, or Casualities of the King into any of the aforesaid Officers, or unto any other person by vertue of their precept, warrant, or allowance. And withall, the Committee doth hereby declare that all Signators precepts, discharges, allowances, or other warrants whatsoever that hath or shall be granted by the persons aforesaid, and all payments made unto them, or to any other by their warrant, by any of the Sub-collectors or other Leiges whatsoever since the date of the agreement aforesaid at <hi>Stirlin</hi> and <hi>Edinburgh,</hi> are null and of none effect either to the receiver or givers, so that both they who have received them, shall be lyable to refound the same, and these who have payed them, shall be found liable to pay the same over again to such as shall have warrand from the Committee or Parliament, as also they shall be liable to what censure the Committee shall think fit for their disobedience of this publick order, Like as the Committee appoints the Customers, the Tenents of the Kings propriety and Principality to come or send to the Subcommittee at <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> an Accompt of their condition with the Exchequer, and to make payment of what is due to such as the Committee or Parliament shall appoint, and to the end none may pretend Ignorance hereof, The Committee appoints this to be proclaimed at the Market Crosse of <hi>Edinburgh,</hi> and other places needfull, and to be published in Print.</p>
+            <closer>
+               <signed>THO. HENDERSON.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBVRGH,</hi> Printed by EVAN TYLER, Printer to the Kings most Excellent MAJESTY, <hi>Anno Dom.</hi> 16<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <pb facs="tcp:179977:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
